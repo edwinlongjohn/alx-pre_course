@@ -1,0 +1,133 @@
+[33mcommit d60c5b1cde7b92b6706071a3d650906a1f43239d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 06:12:15 2022 -0700
+
+    How to be up to date in git
+
+[33mcommit b34612b872fb6b81f1afb75211dde0216820c5c2[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 06:10:03 2022 -0700
+
+    How to be up to date in git
+
+[33mcommit ea7aedf08ff0c19541ad52c4fb3a9340320aeeb1[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 06:07:22 2022 -0700
+
+    How to be up to date in git
+
+[33mcommit a034e4695883b139a2a41a79ba1ea48edc33540f[m
+Author: edwinlongjohn <71050941+edwinlongjohn@users.noreply.github.com>
+Date:   Tue Oct 4 12:37:40 2022 +0100
+
+    Update README.md
+
+[33mcommit 515f7756134993486b5f479386327877a99d6b97[m
+Merge: f9422f3 2d687d6
+Author: edwinlongjohn <71050941+edwinlongjohn@users.noreply.github.com>
+Date:   Tue Oct 4 12:32:41 2022 +0100
+
+    Merge branch 'master' into main
+
+[33mcommit f9422f30e580313090ac544f30b1e4838727339d[m
+Author: edwinlongjohn <71050941+edwinlongjohn@users.noreply.github.com>
+Date:   Tue Oct 4 12:29:31 2022 +0100
+
+    some touches on readme
+
+[33mcommit 9a071cf7c2cb51acd58c1be4b6ccd28e775bf02e[m
+Author: edwinlongjohn <71050941+edwinlongjohn@users.noreply.github.com>
+Date:   Tue Oct 4 11:52:00 2022 +0100
+
+    Update README.md
+
+[33mcommit b69ac38a7b634ed83fcd1f163ca84f42335a3f74[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 03:47:05 2022 -0700
+
+    Hot fix
+
+[33mcommit 2d687d6bfe4131623956cb2cb356e24a1d5ea12c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 03:32:36 2022 -0700
+
+    Starting to code today, so cool
+
+[33mcommit c73c0ba4a07dfcf50b0201d803c088b778add9eb[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 03:29:47 2022 -0700
+
+    Starting to code today, so cool
+
+[33mcommit 537805253faa282b5ecdad6be7fb0a4d0ab5e988[m
+Merge: 85942d0 95152d2
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 02:52:53 2022 -0700
+
+    hot fix
+
+[33mcommit 85942d0f92dfda510516be4e132ee926439c733d[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 02:36:42 2022 -0700
+
+    Hot fix
+
+[33mcommit 95152d29b3a5a79191f69310329d51f34358b4e7[m
+Merge: c192072 e3b2789
+Author: edwinlongjohn <71050941+edwinlongjohn@users.noreply.github.com>
+Date:   Tue Oct 4 10:30:18 2022 +0100
+
+    Merge pull request #2 from edwinlongjohn/update_script
+    
+    My personal work
+
+[33mcommit c192072d262aba0824df3308feeb10f35c21f99d[m
+Merge: be33043 65657a9
+Author: edwinlongjohn <71050941+edwinlongjohn@users.noreply.github.com>
+Date:   Tue Oct 4 10:29:44 2022 +0100
+
+    Merge pull request #1 from edwinlongjohn/main
+    
+    My personal work
+
+[33mcommit e3b2789910bf9c915f0bf623f7e76b6320c7f767[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Tue Oct 4 02:22:26 2022 -0700
+
+    My personal work
+
+[33mcommit 65657a9009971d3a70624675a39b5f61702658e6[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Mon Oct 3 18:59:43 2022 -0700
+
+    My personal work
+
+[33mcommit be33043c55fd1a98d4a3b39b80ccf83849d1f2a9[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Mon Oct 3 17:59:50 2022 -0700
+
+    Starting to code today, so cool
+
+[33mcommit f8a773249d8292ae3afee2ed03a09e9835dce2ea[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Mon Oct 3 17:55:18 2022 -0700
+
+    Starting to code today, so cool
+
+[33mcommit 48d28edf02863641e951800471788774ef542cf4[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Mon Oct 3 17:43:39 2022 -0700
+
+    addition to 0x0-git readme
+
+[33mcommit 7c1c3f53ca5854384f65e45e746209ca50e45517[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Mon Oct 3 17:36:17 2022 -0700
+
+    creating a new directory with an empty readme file
+
+[33mcommit f1869ff643312b397e126275eccb7fadd7e9b8bb[m
+Author: edwinlongjohn <edwinlongjohn@gmail.com>
+Date:   Mon Oct 3 17:25:32 2022 -0700
+
+    My first commit
